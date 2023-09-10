@@ -26,7 +26,7 @@ $ npm install
 
 ### `Add environment variable`
 
-#### Exemple: REACT_APP_API:"http://localhost:4000"
+#### Exemple: REACT_APP_API:"http://localhost:your_backend_port"
 
 ### `Run the application`
 
